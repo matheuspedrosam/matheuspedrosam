@@ -16,7 +16,7 @@
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="Matheus-pic" height="200" style="border-radius:50px;" src="https://discord.com/channels/659560548421337096/659560548421337105/960695084452577300">
+  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="https://www.yoosfuhl.com/wp-content/plugins/svg-avatars-generator/data/temp-avatars/svgA7654726220264543.png">
 </div>
   
   ##
