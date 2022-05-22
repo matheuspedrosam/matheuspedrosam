@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently studying on Cesmac
-- 🌱 I’m currently learning Ruby and (HTML/CSS) and JavaScript
+- 🌱 I’m currently learning Ruby and (HTML/CSS) and JavaScript and SQL
 
 
 <div align="center">
