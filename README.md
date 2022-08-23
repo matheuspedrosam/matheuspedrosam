@@ -13,8 +13,14 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-RUBY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
+  <span>-</span>
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <span>-</span>
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <span>-</span>
+  <img align="center" alt="Matheus-JS" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
+  <span>-</span>
+  <img align="center" alt="Matheus-MYSQL" height="30" width="33" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/database-2306894-1948603.png">
 
   <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="https://www.yoosfuhl.com/wp-content/plugins/svg-avatars-generator/data/temp-avatars/svgA7654726220264543.png">
 </div>
