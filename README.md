@@ -1,11 +1,15 @@
 # Hi there 👋
 
-### 👉 Portfólio https://matheuspedrosam.github.io/Portfolio/
+### Portfólio: 👉
+https://matheuspedrosam.github.io/Portfolio/
+
+### LinkedIn: 👉
+https://www.linkedin.com/mwlite/in/matheus-pedrosa2002
 
 
 
 - 🔭 I’m currently studying on Cesmac
-- 🌱 I’m currently learning Ruby and (HTML/CSS) and JavaScript and SQL
+- 📚 I’m currently learning (Ruby && (HTML/CSS) && JavaScript && SQL)
 #
 
 <div align="center">
