@@ -29,8 +29,8 @@ https://www.linkedin.com/mwlite/in/matheus-pedrosa2002
   <img align="center" alt="Logo Gabi VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
   <img align="center" alt="Logo Gabi Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
   <img align="center" alt="Matheus-MYSQL" height="30" width="33" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/database-2306894-1948603.png">
-
-  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Z6Gqy-qS-EQAAAAM/kakashi-naruto.gif">
+  
+  <img align="right" alt="Matheus-pic" height="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/99772255/188293933-33e5e96d-a177-4dde-a5bc-9fd0a17d9d08.png">
 </div>
   
   ##
