@@ -26,9 +26,11 @@ https://www.linkedin.com/mwlite/in/matheus-pedrosa2002
   <span>-</span>
   <img align="center" alt="Matheus-JS" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
   <span>-</span>
+  <img align="center" alt="Logo Gabi VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Logo Gabi Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
   <img align="center" alt="Matheus-MYSQL" height="30" width="33" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/database-2306894-1948603.png">
 
-  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="https://www.yoosfuhl.com/wp-content/plugins/svg-avatars-generator/data/temp-avatars/svgA7654726220264543.png">
+  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Z6Gqy-qS-EQAAAAM/kakashi-naruto.gif">
 </div>
   
   ##
