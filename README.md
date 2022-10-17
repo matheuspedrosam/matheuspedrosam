@@ -32,9 +32,9 @@ https://www.linkedin.com/mwlite/in/matheus-pedrosa2002
   <span>-</span>
   <img align="center" alt="SQL" height="30" width="33" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/database-2306894-1948603.png">
   <span>-</span>
-  <img align="center" alt="VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
+  <img align="center" alt="VsCode" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
   <span>-</span>
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
+  <img align="center" alt="Git" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
   
   <div><img align="right" alt="Matheus-pic" height="100px" src="https://user-images.githubusercontent.com/99772255/188293933-33e5e96d-a177-4dde-a5bc-9fd0a17d9d08.png"></div>
 </div>
