@@ -4,7 +4,7 @@
 https://matheuspedrosam.github.io/Portfolio/
 
 ### LinkedIn: 👉
-https://www.linkedin.com/mwlite/in/matheus-pedrosa2002
+https://www.linkedin.com/in/matheus-pedrosa2002/
 
 
 
