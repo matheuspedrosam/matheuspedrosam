@@ -1,18 +1,7 @@
 ![image](https://user-images.githubusercontent.com/99772255/196438173-e76620ff-4cab-401a-816a-d2130c91bf27.png)
 
-# Hi there 👋
-
-### Portfólio: 👉
-https://matheuspedrosam.github.io/Portfolio/
-
-### LinkedIn: 👉
-https://www.linkedin.com/in/matheus-pedrosa2002/
-
-
-
-- 🔭 I’m currently studying on Cesmac
-- 📚 I’m currently learning (Ruby && (HTML/CSS) && JavaScript && SQL)
-#
+# Hi there I'm Matheus Pedrosa👋
+## <a href="https://matheuspedrosam.github.io/Portfolio/">🔗👉 Meu Portfólio</a> <div>ㅤ</div>
 
 <div align="center">
   <a href="https://github.com/matheuspedrosam">
@@ -28,10 +17,10 @@ https://www.linkedin.com/in/matheus-pedrosa2002/
   <span>-</span>
   <img align="center" alt="JS" height="40" width="40" src="https://img.icons8.com/color/144/000000/javascript--v1.png">
   <span>-</span>
-  <img align="center" alt="Bootstrap" height="42" width="42" src="https://img.icons8.com/color/144/000000/bootstrap.png">
-  <span>-</span>
-  <img align="center" alt="React" height="40" width="40" src="https://img.icons8.com/color/144/000000/react-native.png">
-  <span>-</span>
+<!--   <img align="center" alt="Bootstrap" height="42" width="42" src="https://img.icons8.com/color/144/000000/bootstrap.png">
+  <span>-</span> -->
+<!--   <img align="center" alt="React" height="40" width="40" src="https://img.icons8.com/color/144/000000/react-native.png">
+  <span>-</span> -->
   <img align="center" alt="SQL" height="30" width="33" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/database-2306894-1948603.png">
   <span>-</span>
   <img align="center" alt="VsCode" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
