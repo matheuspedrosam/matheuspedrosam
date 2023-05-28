@@ -21,11 +21,13 @@
   <span>-</span>
   <img align="center" alt="Bootstrap" height="42" width="42" src="https://img.icons8.com/color/144/000000/bootstrap.png">
   <span>-</span>
-  <img align="center" alt="SQL" height="30" width="33" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/database-2306894-1948603.png">
-  <span>-</span>
   <img align="center" alt="VsCode" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
   <span>-</span>
   <img align="center" alt="Git" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
+  <span>-</span>
+  <img align="center" alt="SQL" height="30" width="33" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/database-2306894-1948603.png">
+  <span>-</span>
+  <img align="center" alt="Oracle-Sql" height="83" width="83" src="https://img.icons8.com/color/96/oracle-logo.png">
   <br>
   <br>
   <span><strong>Noção De:</strong></span>
