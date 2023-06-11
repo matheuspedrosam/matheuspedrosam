@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/99772255/196438173-e76620ff-4cab-401a-816a-d2130c91bf27.png)
+![Banner de Cabeçalho Gradiente Azul (4)](https://github.com/matheuspedrosam/matheuspedrosam/assets/99772255/14baf2a3-8833-4563-9022-3db8fdf3d6c2)
 
 # Hi there I'm Matheus Pedrosa👋
 ## <a href="https://matheuspedrosam.github.io/Portfolio/">👉 Meu Portfólio [Link]</a> <div>ㅤ</div>
