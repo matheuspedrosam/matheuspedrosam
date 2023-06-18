@@ -28,14 +28,16 @@
   <img align="center" alt="SQL" height="30" width="33" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/database-2306894-1948603.png">
   <span>-</span>
   <img align="center" alt="Oracle-Sql" height="83" width="83" src="https://img.icons8.com/color/96/oracle-logo.png">
-  <br>
-  <br>
+
+  <div>ㅤ</div>
+  
   <span><strong>Noção De:</strong></span>
   <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <span>-</span>
   <img align="center" alt="Python" height="36" width="38" src="https://img.icons8.com/?size=512&id=l75OEUJkPAk4&format=png">
   <span>-</span>
   <img align="center" alt="Java" height="40" width="42" src="https://img.icons8.com/?size=512&id=13679&format=png">
+  <div>ㅤ</div>
   
   <div><img align="right" alt="Matheus-pic" height="100px" src="https://user-images.githubusercontent.com/99772255/188293933-33e5e96d-a177-4dde-a5bc-9fd0a17d9d08.png"></div>
 </div>
