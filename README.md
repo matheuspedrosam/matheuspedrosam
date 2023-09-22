@@ -9,7 +9,7 @@
   <br>
   <a href="https://github.com/matheuspedrosam">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheuspedrosam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img hspace="10" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuspedrosam&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuspedrosam&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
 ##
