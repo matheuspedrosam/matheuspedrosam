@@ -3,8 +3,6 @@
 
 # Hi I'm Pedrosa👋
 
-<kbd>MEU PORTFÓLIO(PROJETOS):<a href="https://matheuspedrosam.github.io/Portfolio/"> 👉 Clique Aqui</a></kbd>
-
 <div>
   <br>
   <a href="https://github.com/matheuspedrosam">
@@ -19,8 +17,8 @@
   ### Skils 🔥 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css"/> <br>
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,tailwind,typescript"/> <br>
-    <img src="https://skillicons.dev/icons?i=linkedin,mysql,mongodb"/> 
+    <img src="https://skillicons.dev/icons?i=next,typescript,tailwind,figma,mysql"/> <br>
+    <img src="https://skillicons.dev/icons?i=mongodb,vscode,git,github,linkedin"/> 
   </a>
 </p>
   
@@ -28,9 +26,17 @@
   <a href="https://skillicons.dev">
     
   ### Noção de 👀
-  <img src="https://skillicons.dev/icons?i=ruby,py,java"/>
+  <img src="https://skillicons.dev/icons?i=ruby,py"/>
   </a>
 </p>
+
+##
+
+### Projetos 🧠
+
+<a href="https://matheuspedrosam.github.io/Portfolio/"><img width="500px" src="https://user-images.githubusercontent.com/99772255/239716545-966e3cfa-171d-4a61-8efb-2a632f94af28.png"></img></a>
+
+<a href="https://matheuspedrosam.github.io/Portfolio/">[ Clicar para acessar meu portfólio ] ⬅️🔗</a>
 
 ##
 
@@ -39,13 +45,9 @@
   ### Redes Sociais 🌐
   <p><img alt="Matheus-pic" width="112px" src="https://user-images.githubusercontent.com/99772255/188293933-33e5e96d-a177-4dde-a5bc-9fd0a17d9d08.png"></p>
   <a href="https://www.linkedin.com/in/matheus-pedrosa2002/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <span>ﾠ</span>
   <a href="https://www.instagram.com/matheuspedrosam/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <span>ﾠ</span>
   <a href="https://www.youtube.com/channel/UCk52A7cqGKiU7-LaFNmaDrg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <span>ﾠ</span>
   <a href="https://www.discordapp.com/users/255294706563547136" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <span>ﾠ</span>
   <a href="mailto:matheuspedrosa2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
