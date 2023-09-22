@@ -3,7 +3,7 @@
 
 # Hi I'm Pedrosa👋
 
-<kbd>MEU PORTÓLIO(PROJETOS):<a href="https://matheuspedrosam.github.io/Portfolio/"> 👉 Clique Aqui</a></kbd>
+<kbd>MEU PORTFÓLIO(PROJETOS):<a href="https://matheuspedrosam.github.io/Portfolio/"> 👉 Clique Aqui</a></kbd>
 
 <div>
   <br>
@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     
-  ### Noçao de 👀
+  ### Noção de 👀
   <img src="https://skillicons.dev/icons?i=ruby,py,java"/>
   </a>
 </p>
@@ -52,7 +52,7 @@
  ##
 
    ### Sobre mim ✌️
-- 👦 Desenvolvedor web
+- 👨‍💻 Desenvolvedor web
 - 📚 Desenvolvendo com Javascript.
 - 📍 Brasileiro de Maceió - AL.
 - 🎓 Estudante do curso de sistemas de informação
