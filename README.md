@@ -44,6 +44,7 @@
   
   ### Redes Sociais 🌐 
   <p><img alt="Matheus-pic" width="112px" src="https://matheuspedrosam.github.io/Portfolio/imagens/Foto-perfil.png"></p>
+  <a href="https://matheuspedrosam.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-pedrosa2002/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/matheuspedrosam/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCk52A7cqGKiU7-LaFNmaDrg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
