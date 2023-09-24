@@ -1,7 +1,8 @@
 ![Banner de Cabeçalho Gradiente Azul (4)](https://github.com/matheuspedrosam/matheuspedrosam/assets/99772255/14baf2a3-8833-4563-9022-3db8fdf3d6c2)
 
-
-# Hi I'm Pedrosa👋
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+Sou+Matheus+Pedrosa!;" />
+</h1>
 
 <div>
   <br>
@@ -61,6 +62,5 @@
 - 🎓 Estudante do curso de sistemas de informação
 
 ##
- 
- ![Snake animation](https://github.com/matheuspedrosam/matheuspedrosam/blob/output/github-contribution-grid-snake.svg)
 
+![github-contribution-grid-snake](https://github.com/matheuspedrosam/matheuspedrosam/blob/output/github-contribution-grid-snake.svg)
