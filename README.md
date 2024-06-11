@@ -1,4 +1,4 @@
-![Banner para Linkedin Tecnologia em Preto](https://github.com/matheuspedrosam/matheuspedrosam/assets/99772255/39ee411d-2621-4175-90d7-f2dd8f93dd0a)
+![Banner para Linkedin Tecnologia em Preto (1)](https://github.com/matheuspedrosam/matheuspedrosam/assets/99772255/3f4e085d-8295-4c1c-b41e-fd80ac20b4bb)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+Sou+Matheus+Pedrosa!;"/>
