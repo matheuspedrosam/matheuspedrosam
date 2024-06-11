@@ -1,4 +1,4 @@
-![Banner de Cabeçalho Gradiente Azul (4)](https://github.com/matheuspedrosam/matheuspedrosam/assets/99772255/14baf2a3-8833-4563-9022-3db8fdf3d6c2)
+![Banner para Linkedin Tecnologia em Preto](https://github.com/matheuspedrosam/matheuspedrosam/assets/99772255/39ee411d-2621-4175-90d7-f2dd8f93dd0a)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+Sou+Matheus+Pedrosa!;"/>
