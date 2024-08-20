@@ -18,8 +18,9 @@
   ### Skils 🔥 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css"/> <br>
-    <img src="https://skillicons.dev/icons?i=next,typescript,tailwind,figma,mysql"/> <br>
-    <img src="https://skillicons.dev/icons?i=mongodb,vscode,git,github,linkedin"/> 
+    <img src="https://skillicons.dev/icons?i=nest,mongodb,mysql,sequelize,express"/> <br>
+    <img src="https://skillicons.dev/icons?i=next,typescript,bootstrap,docker,firebase"/> <br>
+    <img src="https://skillicons.dev/icons?i=windows,vscode,git,figma"/>
   </a>
 </p>
   
@@ -27,7 +28,7 @@
   <a href="https://skillicons.dev">
     
   ### Noção de 👀
-  <img src="https://skillicons.dev/icons?i=ruby,py"/>
+  <img src="https://skillicons.dev/icons?i=ruby,py,unity,c#"/>
   </a>
 </p>
 
