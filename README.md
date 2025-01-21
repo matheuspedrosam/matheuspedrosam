@@ -1,7 +1,7 @@
 ![Banner para Linkedin Tecnologia em Preto (1)](https://github.com/matheuspedrosam/matheuspedrosam/assets/99772255/3f4e085d-8295-4c1c-b41e-fd80ac20b4bb)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+Sou+Matheus+Pedrosa!;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Matheus+Pedrosa!;"/>
 </h1>
 
 <div>
@@ -38,13 +38,13 @@
 
 <a href="https://matheuspedrosam.github.io/Portfolio/"><img width="500px" src="https://user-images.githubusercontent.com/99772255/239716545-966e3cfa-171d-4a61-8efb-2a632f94af28.png"></img></a>
 
-<a href="https://matheuspedrosam.github.io/Portfolio/">[ Clicar para acessar meu portfólio ] ⬅️🔗</a>
+<a href="https://matheuspedrosam.github.io/Portfolio/">[ Click to access my portfolio ] ⬅️🔗</a>
 
 ##
 
 <div>
   
-  ### Redes Sociais 🌐
+  ### Social media 🌐
 
   <p><img alt="Matheus-pic" width="112px" src="https://github.com/user-attachments/assets/d598decc-78c9-49e3-abcb-56344bc077f5"></p>
   <a href="https://matheuspedrosam.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
@@ -57,11 +57,11 @@
 
  ##
 
-   ### Sobre mim ✌️
-- 👨‍💻 Desenvolvedor web
-- 📚 Desenvolvendo com Javascript.
-- 📍 Brasileiro de Maceió - AL.
-- 🎓 Estudante do curso de sistemas de informação
+   ### About me ✌️
+- 👨‍💻 Web Developer.
+- 📚 Developing with Javascript.
+- 📍 Brazilian from Maceió - AL.
+- 🎓 Coursing systems of information.
 
 ##
 
