@@ -27,14 +27,14 @@
 <p align="center">
   <a href="https://skillicons.dev">
     
-  ### Noção de 👀
+  ### Notion of 👀
   <img src="https://skillicons.dev/icons?i=ruby,py,unity,c#"/>
   </a>
 </p>
 
 ##
 
-### Projetos 🧠
+### Projects 🧠
 
 <a href="https://matheuspedrosam.github.io/Portfolio/"><img width="500px" src="https://user-images.githubusercontent.com/99772255/239716545-966e3cfa-171d-4a61-8efb-2a632f94af28.png"></img></a>
 
