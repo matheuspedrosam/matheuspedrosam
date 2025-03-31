@@ -1,4 +1,4 @@
-![Banner Linkedin Tecnologia](https://github.com/user-attachments/assets/9da45e85-df7e-4642-8622-a6f1b4953c98)
+![Banner Linkedin](https://github.com/user-attachments/assets/8f40cc92-0890-495f-8a11-68d8f0d7eec1)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Matheus+Pedrosa!;"/>
@@ -36,9 +36,9 @@
 
 ### Projects 🧠
 
-<a href="https://matheuspedrosam.github.io/Portfolio/"><img width="500px" src="https://user-images.githubusercontent.com/99772255/239716545-966e3cfa-171d-4a61-8efb-2a632f94af28.png"></img></a>
+<a href="https://pedrosa-portfolio.web.app/">![image](https://github.com/user-attachments/assets/83664377-6f63-4b09-b022-c3692262ef28)</a>
 
-<a href="https://matheuspedrosam.github.io/Portfolio/">[ Click to access my portfolio ] ⬅️🔗</a>
+<a href="https://pedrosa-portfolio.web.app/">[ Click to access my portfolio ] ⬅️🔗</a>
 
 ##
 
@@ -47,7 +47,7 @@
   ### Social media 🌐
 
   <p><img alt="Matheus-pic" width="112px" src="https://github.com/user-attachments/assets/d598decc-78c9-49e3-abcb-56344bc077f5"></p>
-  <a href="https://matheuspedrosam.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
+  <a href="https://pedrosa-portfolio.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-pedrosa2002/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/devpedrosam/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@devpedrosam" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
