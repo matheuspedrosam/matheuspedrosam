@@ -61,7 +61,7 @@
   
   ### My CV 📄
 
-  [![Download CV](https://img.shields.io/badge/Download%20CV-%230077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/19541268/CV.pdf)
+  [![Download CV](https://img.shields.io/badge/Download%20CV-%230077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/19544144/CV.pdf)
 
  </div>
 
